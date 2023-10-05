@@ -4,6 +4,9 @@ Refactor code to make the website more accessible.
 ## Description
 HTML updated to meet accessibility standards with semantic elements defined more clearly. 
 
+## Photo of Deployed Application
+![my image](./assets/images/Refactor-Screenshot.png)
+
 ## Excecuting Program
 Website link: https://quachies.github.io/refactor-accessibility/
 
